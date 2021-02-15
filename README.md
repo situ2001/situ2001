@@ -1,6 +1,7 @@
 ### 📚 Keep learning
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=situ2001) -->
+- 👨‍🎓 I am an undergraduate, currently studying in GZHU.
+- 🌱 I am learning JavaScript and Python for these days.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=situ2001)
 
