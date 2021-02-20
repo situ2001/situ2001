@@ -3,7 +3,7 @@
 - 👨‍🎓 I am an undergraduate, currently studying in GZHU.
 - 🌱 I am learning JavaScript and Python for these days.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=situ2001&exclude_repo=situ2001.github.io)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=situ2001&exclude_repo=situ2001.github.io&langs_count=6)
 
 <!--
 **situ2001/situ2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
