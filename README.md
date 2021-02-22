@@ -1,7 +1,6 @@
-### 📚 Keep learning
+### 👴 Getting bald
 
 - 👨‍🎓 I am an undergraduate, currently studying in GZHU.
-- 🌱 I am learning JavaScript and Python for these days.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=situ2001&exclude_repo=situ2001.github.io&langs_count=6)
 
