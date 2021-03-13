@@ -1,6 +1,8 @@
 ### 👴 Getting bald
 
 - 👨‍🎓 I am an undergraduate, currently studying in GZHU.
+- 👨‍💻 The programming languages I am familiar with are Java, JavaScript and Python.
+- 🔦 Now exploring the field related to Machine Learning.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=situ2001&exclude_repo=situ2001.github.io&langs_count=6)
 
