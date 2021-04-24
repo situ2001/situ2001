@@ -5,7 +5,7 @@
 - 👨‍💻 The programming languages I am familiar with are Java, JavaScript and Python.
 - 🌱 I am currently learning data structures and algorithms.
 - 💪 Dream of becoming a front-end engineer.
-- 🔎 Going deeper into javascript.
+- 🤿 Going deeper into JavaScript.
 - 📔 Getting accustomed to taking notes.
 - ⚡ Fun fact: Situ is one of the more common surviving Chinese compound surnames.
 
