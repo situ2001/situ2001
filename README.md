@@ -4,7 +4,7 @@
 - ✍ You can flip through my [blog](https://blog.situ2001.com) and my [notebook](https://note.situ2001.com).
 - 👨‍💻 The programming languages I am familiar with are Java, JavaScript, TypeScript and Python.
 - 🌱 I am currently learning data structures and algorithms.
-- 🤿 Going deeper into JavaScript.
+<!-- - 🤿 Going deeper into JavaScript. -->
 - 💪 Dream of becoming a front-end engineer.
 - 📔 Getting accustomed to taking notes.
 - ⚡ Fun fact: Situ is one of the more common surviving Chinese compound surnames.
