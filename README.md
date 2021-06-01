@@ -1,7 +1,7 @@
 ### 👴 Getting bald
 
 - 👨‍🎓 I am an undergraduate, currently studying in Guangzhou University.
-- ✍ You can flip through my [blog](https://blog.situ2001.com) and my [notebook](https://note.situ2001.com).
+- ✍ You can flip through my [blog](https://blog.situ2001.com).
 - 👨‍💻 The programming languages I am familiar with are Java, JavaScript, TypeScript and Python.
 - 🌱 I am currently learning data structures and algorithms.
 - 💪 Dream of becoming a front-end engineer.
