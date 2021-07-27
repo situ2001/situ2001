@@ -2,7 +2,6 @@
 
 - 👨‍🎓 I am an undergraduate, currently studying in Guangzhou University.
 - ✍ You can flip through my [blog](https://blog.situ2001.com).
-- 🌱 I am currently learning data structures and algorithms.
 - 💪 Dream of becoming a front-end engineer.
 - ⚡ Fun fact: Situ is one of the more common surviving Chinese compound surnames.
 
