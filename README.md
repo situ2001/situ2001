@@ -12,8 +12,8 @@
 ![](https://shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![](https://shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![](https://shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
-![](https://shields.io/badge/-C%2b%2b-00599C?logo=c%2b%2b&logoColor=white&style=flat-square)
-![](https://shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
+<!-- ![](https://shields.io/badge/-C%2b%2b-00599C?logo=c%2b%2b&logoColor=white&style=flat-square) -->
+<!-- ![](https://shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) -->
 
 ### 📊 Stats
 
