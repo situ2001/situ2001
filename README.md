@@ -1,4 +1,4 @@
-### 👴 Getting bald
+### 👋 Hi there
 
 - 👨‍🎓 I am an undergraduate, currently studying in Guangzhou University.
 - ✍ You can flip through my [blog](https://situ2001.com).
