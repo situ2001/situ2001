@@ -37,7 +37,7 @@ jobs:
           # Your GitHub repository
           # REPOSITORY: # optional, default is ${{ github.repository }}
           # Displays the week number and days in Readme as title
-          # SHOW_TITLE: true # optional
+          SHOW_TITLE: true # optional
           # Add a commit message of your choice
           # COMMIT_MESSAGE: # optional, default is Updated the Graph with new Metrics
           # Add the progress blocks of your choice
