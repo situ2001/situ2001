@@ -24,7 +24,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2021 - 06 September, 2021
+Week: 31 August, 2021 - 07 September, 2021
 
 C            6 hrs 16 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.04 % 
 Markdown     5 hrs 31 mins   ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.05 % 
