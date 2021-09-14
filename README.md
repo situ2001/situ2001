@@ -20,7 +20,7 @@
 ### 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=situ2001&count_private=true&show_icons=true&include_all_commits=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=situ2001&exclude_repo=situ2001.github.io&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=situ2001&exclude_repo=situ2001.github.io&langs_count=8)
 
 ### 📊 Weekly development breakdown
 
