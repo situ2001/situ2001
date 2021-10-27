@@ -13,8 +13,8 @@
 
 ![](https://shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
 ![](https://shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![](https://shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![](https://shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+![](https://shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 
 **Tasted**
 
