@@ -31,7 +31,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 21 December, 2021
+Week: 15 December, 2021 - 22 December, 2021
 
 TypeScript   10 hrs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.67 % 
 C++          4 hrs 47 mins   ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.67 % 
