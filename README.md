@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 08 February, 2022
+Week: 02 February, 2022 - 09 February, 2022
 
 Rust         7 hrs 24 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.38 % 
 TypeScript   3 hrs 10 mins   ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.17 % 
