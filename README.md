@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=situ2001&count_private=true&show_icons=true&include_all_commits=false&hide_rank=true" width="250" align="right" />
 
-- 👨‍🎓 I am a sophomore, currently studying in Guangzhou University.
+- 👨‍🎓 A sophomore @gzhu
 - ✍ You can flip through my [blog](https://situ2001.com).
 - 💪 Dream of becoming a front-end or full-stack engineer.
 - 📚 Reading the books **CS:APP**.
