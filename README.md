@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-<img src="https://github-readme-stats.vercel.app/api?username=situ2001&count_private=true&show_icons=true&include_all_commits=false" width="40%" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=situ2001&count_private=true&show_icons=true&include_all_commits=false" width="420" align="right" />
 
 - 👨‍🎓 I am a sophomore, currently studying in Guangzhou University.
 - ✍ You can flip through my [blog](https://situ2001.com).
