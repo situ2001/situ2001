@@ -5,8 +5,6 @@
 - 👨‍🎓 An undergraduate @gzhu
 - ✍ You can flip through my [blog](https://situ2001.com).
 - 💪 Dream of becoming a front-end or full-stack engineer.
-- 📚 Learning OS & Network.
-- 🎢 Learning ![](https://shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
 - ⚡ Fun fact: Situ is one of the more common surviving Chinese compound surnames.
 
 <!--
