@@ -1,6 +1,9 @@
-### 👋 Hi there
-
 <img src="https://github-readme-stats.vercel.app/api?username=situ2001&count_private=true&show_icons=true&include_all_commits=false&hide_rank=true" width="250" align="right" />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 - 👨‍🎓 An undergraduate @gzhu
 - ✍ You can flip through my [blog](https://situ2001.com).
