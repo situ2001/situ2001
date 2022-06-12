@@ -10,6 +10,9 @@
 - 💪 Dream of becoming a front-end or full-stack engineer.
 - ⚡ Fun fact: Situ is one of the more common surviving Chinese compound surnames.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **situ2001/situ2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
