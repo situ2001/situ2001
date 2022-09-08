@@ -15,12 +15,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   36.9% 
+Markdown                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.88% 
+JavaScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01% 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
+TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
 
- Last Updated on 08/09/2022 16:45:17 UTC
+ Last Updated on 08/09/2022 18:47:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
