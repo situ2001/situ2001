@@ -16,16 +16,16 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 13 mins      ████████████████░░░░░░░░░   65.08% 
-Clojure                  4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Other                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
-Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
+TypeScript               15 hrs 13 mins      █████████████████░░░░░░░░   70.84% 
+Clojure                  2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
+Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
+JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
 
 ```
 
 
- Last Updated on 24/10/2022 19:02:52 UTC
+ Last Updated on 25/10/2022 19:15:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
