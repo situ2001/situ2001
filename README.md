@@ -7,8 +7,7 @@
 ![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=Clojure&logoColor=white)
 
 - 👨‍🎓 An undergraduate @gzhu
-- ✍ You can flip through my [blog](https://situ2001.com).
-- 💪 Dream of becoming a front-end or full-stack engineer.
+- 💪 Dream of becoming a full-stack JavaScript engineer.
 - ⚡ Fun fact: Situ is one of the more common surviving Chinese compound surnames.
 
 <!--START_SECTION:waka-->
