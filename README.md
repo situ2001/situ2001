@@ -15,16 +15,16 @@
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 1 min         ██████████████████████░░░   88.49% 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
-Gradle                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+Java                     2 hrs 46 mins       █████████████████████░░░░   84.39% 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+Gradle                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.53% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
 
 ```
 
 
- Last Updated on 05/12/2022 18:38:32 UTC
+ Last Updated on 06/12/2022 18:38:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
