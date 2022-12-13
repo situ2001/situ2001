@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=situ2001&count_private=true&show_icons=true&include_all_commits=false&hide_rank=true" width="250" align="right" />
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
