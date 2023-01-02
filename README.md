@@ -11,20 +11,8 @@
 - ⚡ Fun fact: Situ is one of the more common surviving Chinese compound surnames.
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Java                     7 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.91% 
-Clojure                  4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.9% 
-Rust                     2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
-HTML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.02%
-
-```
-
-
- Last Updated on 01/01/2023 18:34:17 UTC
+ Last Updated on 02/01/2023 18:36:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
