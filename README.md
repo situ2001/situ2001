@@ -4,11 +4,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=Clojure&logoColor=white)
 
-<p align="right">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/situ2001/count.svg" />
-</p>
-
 - 👨‍🎓 An undergraduate @gzhu
 - 💪 Dream of becoming a full-stack JavaScript engineer.
 - ✍️ Recently researching note-taking & knowledge management apps.
