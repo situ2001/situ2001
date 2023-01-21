@@ -6,7 +6,6 @@
 
 - 👨‍🎓 An undergraduate @gzhu
 - 💪 Dream of becoming a full-stack JavaScript engineer.
-- ✍️ Recently researching note-taking & knowledge management apps.
 - ⚡ Fun fact: Situ is one of the more common surviving Chinese compound surnames.
 
 <!--START_SECTION:waka-->
