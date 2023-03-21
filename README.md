@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-Clojure                  1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-JavaScript               1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   31.39 % 
-TypeScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-C++                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Rust                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript               1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   33.28 % 
+Clojure                  1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.80 % 
+TypeScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+C++                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+CocoaPods                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 
 
- Last Updated on 20/03/2023 18:36:57 UTC
+ Last Updated on 21/03/2023 18:34:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
