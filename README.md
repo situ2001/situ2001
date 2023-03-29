@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   26 hrs 2 mins       ██████████████████████░░░   86.48 % 
-JavaScript               2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-TypeScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Vue.js                   21 hrs 27 mins      ████████████████████░░░░░   81.78 % 
+JavaScript               3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 
- Last Updated on 28/03/2023 18:35:15 UTC
+ Last Updated on 29/03/2023 18:39:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
