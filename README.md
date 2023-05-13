@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   40.60 % 
-Rust                     4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-JavaScript               2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Vue.js                   5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
+Rust                     4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TeX                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 ```
 
 
- Last Updated on 12/05/2023 18:31:40 UTC
+ Last Updated on 13/05/2023 18:31:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
