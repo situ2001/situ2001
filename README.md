@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs               ████████████████████░░░░░   80.41 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-yarn.lock                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+TypeScript               7 hrs 59 mins       ██████████████████████░░░   86.47 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
- Last Updated on 26/06/2023 18:37:07 UTC
+ Last Updated on 27/06/2023 18:36:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
