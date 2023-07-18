@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   36.45 % 
-Kotlin                   4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-C++                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-JavaScript               3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-TeX                      2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+TypeScript               10 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   37.48 % 
+Kotlin                   3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+TeX                      3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+C++                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+JavaScript               2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 ```
 
 
- Last Updated on 17/07/2023 18:34:43 UTC
+ Last Updated on 18/07/2023 18:35:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
