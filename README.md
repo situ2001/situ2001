@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 25 mins       █████████████░░░░░░░░░░░░   53.66 % 
-TypeScript               5 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Kotlin                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Java                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+JavaScript               10 hrs 1 min        ██████████████░░░░░░░░░░░   54.31 % 
+TypeScript               4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Java                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Kotlin                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 ```
 
 
- Last Updated on 31/08/2023 18:31:44 UTC
+ Last Updated on 01/09/2023 18:31:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
