@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
-Clojure                  3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-JavaScript               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Java                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Prolog                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+TypeScript               5 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
+JavaScript               2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Java                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Prolog                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 
 
- Last Updated on 10/09/2023 18:31:32 UTC
+ Last Updated on 11/09/2023 18:32:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
