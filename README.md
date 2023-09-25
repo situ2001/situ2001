@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
-Kotlin                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-C++                      1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Objective-C              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-C                        1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JavaScript               5 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
+Kotlin                   2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+C++                      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Objective-C              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+C                        1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
 
 
- Last Updated on 24/09/2023 18:31:32 UTC
+ Last Updated on 25/09/2023 18:33:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
