@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     3 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.41 % 
-JavaScript               1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-TypeScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-TOML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Java                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Rust                     6 hrs 7 mins        ██████████████░░░░░░░░░░░   57.87 % 
+JavaScript               1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+TypeScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+TOML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Java                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 ```
 
 
- Last Updated on 10/10/2023 18:32:24 UTC
+ Last Updated on 11/10/2023 18:33:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
