@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     2 mins              █████████████████████░░░░   82.57 % 
-TOML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Astro                    3 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.81 % 
+CSS                      1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Markdown                 1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
 
 
- Last Updated on 23/10/2023 18:32:43 UTC
+ Last Updated on 24/10/2023 18:33:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
