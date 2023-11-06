@@ -12,15 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 38 mins       ████████████████░░░░░░░░░   65.00 % 
-Astro                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-CSS                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+TypeScript               3 hrs 38 mins       ███████████████░░░░░░░░░░   58.29 % 
+JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Astro                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+TSConfig                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
 
- Last Updated on 05/11/2023 18:31:28 UTC
+ Last Updated on 06/11/2023 18:33:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
