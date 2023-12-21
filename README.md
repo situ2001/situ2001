@@ -12,12 +12,11 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 mins             █████████████████████████   99.66 % 
-Astro                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/12/2023 18:32:35 UTC
+ Last Updated on 21/12/2023 18:31:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
