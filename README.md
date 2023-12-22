@@ -12,11 +12,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               47 mins             ████████░░░░░░░░░░░░░░░░░   31.40 % 
+JavaScript               39 mins             ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+JSON                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+GitIgnore file           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Java                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 ```
 
 
- Last Updated on 21/12/2023 18:31:37 UTC
+ Last Updated on 22/12/2023 18:31:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
