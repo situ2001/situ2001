@@ -1,7 +1,6 @@
 ### 👋 Hi there. This is situ2001.
 
-- 👨‍🎓 Undergraduate at Guangzhou University, expected to graduate in the summer of 2024.
-- 🪄 Eager to become a full-stack developer.
+- 👨‍💻 Web developer, eager to become a full-stack developer.
 - ⚡ Fun fact: Situ (司徒) is one of the more common surviving Chinese compound surnames.
 - 💭 Ideas burst out of my head like a fountain, but I am too prone to procrastination to catch and implement them😢. Thus, I am trying to overcome it recently.
 - 🤔 If you are interested in the Myers–Briggs Type Indicator (MBTI) and want to know my type, I am an `INFP-A`.
@@ -15,8 +14,8 @@
 
 ### 🏢 Work Experience
 
-- 🎶 Tencent Music Entertainment Group, Frontend Engineer Intern.
-- 🚖 Didi Global, Frontend Engineer Intern.
+- 🎶 Tencent Music Entertainment Group, Web Developer.
+- 🚖 Didi Global, Web Developer Intern.
 
 ### 🗺️ Where to find me
 
