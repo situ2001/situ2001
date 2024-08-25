@@ -12,11 +12,6 @@
 - 🧰 Some useful and meaningful personal projects.
 - 📦 Contributions to open-source projects which I am using or interested in.
 
-### 🏢 Work Experience
-
-- 🎶 Tencent Music Entertainment Group, Web Developer.
-- 🚖 Didi Global, Web Developer Intern.
-
 ### 🗺️ Where to find me
 
 The content in the links is all in Chinese but I am planning to use English in the future.
