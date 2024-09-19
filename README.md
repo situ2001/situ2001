@@ -2,7 +2,7 @@
 
 - 👨‍💻 Web developer, eager to become a full-stack developer.
 - ⚡ Fun fact: Situ (司徒) is one of the more common surviving Chinese compound surnames.
-- 💭 Ideas burst out of my head like a fountain, but I am too prone to procrastination to catch and implement them😢. Thus, I am trying to overcome it recently.
+- 💭 Trying to overcome procrastination recently.
 - 🤔 If you are interested in the Myers–Briggs Type Indicator (MBTI) and want to know my type, I am an `INFP-A`.
 
 ### 🏗️ Currently working on
